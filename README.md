@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi, I'm Thomas Raducha !
+<p><em>Full Stack Developper</br>Learning Developpment at <a href="https://www.thehackingproject.org/parcours">The Hacking Project</a>
+</em></p>
 
-<!--
-**tomraducha/tomraducha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![linkedin thomas-raducha](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-raducha/)
 
-Here are some ideas to get you started:
+### Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,ruby,rails,html,css,bootstrap,stackoverflow" />
+  </a>
+</p>
+  
